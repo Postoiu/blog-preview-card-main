@@ -91,6 +91,11 @@ span {
 h1 {
     font-size: 1.5rem;
     font-weight: bold;
+    cursor: pointer;
+}
+
+h1:hover {
+    color: var(--color-yellow);
 }
 
 .author {
